@@ -41,16 +41,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love watching Anime.
 
 <br />
+
+![Devansh's Github stats](https://github-readme-stats.vercel.app/api?username=devanshagar783&show_icons=true&theme=tokyonight)
+<br />
 <br />
 
-![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=devanshagar783&show_icons=true&theme=tokyonight)
-<br />
-<br />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshagar783&theme=tokyonight&&layout=compact" alt="devanshagar783" /></p>
+![Devansh's Github straks](https://github-readme-streak-stats.herokuapp.com/?user=devanshagar783&theme=tokyonight&&layout=compact)
+<br /> 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshagar783&theme=tokyonight&&layout=compact">
+![Devansh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshagar783&theme=tokyonight&&layout=compact)
+<br />
 
 <p align="center"> 
   Visitor count<br>
