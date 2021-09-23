@@ -4,7 +4,7 @@
 <a href="https://www.facebook.com/devansh.agarwal.58">
   <img align="left" alt="Devansh's Facebook" width="22px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" />
 </a>
-<a href="https://www.linkedin.com/in/devansh-agarwal-85ab47177/">
+<a href="https://www.linkedin.com/in/devanshagarwal783">
   <img align="left" alt="Devansh's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/47604864/102381927-d5b3dc00-3fef-11eb-892d-e65f16d9d199.png" />
 </a>
 <a href="https://www.instagram.com/_devanshagarwal__/">
