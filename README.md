@@ -1,4 +1,4 @@
-### Hi there, I'm Devansh 👋
+### Hi there, I'm Devansh Agarwal 👋
 
 
 <a href="https://www.facebook.com/devansh.agarwal.58">
@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 
 # About Me
 
-- 🎓 CSE Undergrad student.
+- 🎓 CSE Graduate.
+- 📱 Frontend Developer.
 - 📱 Android Application developer.
-- 👨‍💻 Mostly working on Android, Java!
+- 👨‍💻 Mostly working on ReactJS!
 - ⚡ Fun fact: I love watching Anime.
 
 <br />
