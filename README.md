@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 # About Me
 
 - 🎓 CSE Graduate.
-- 📱 Frontend Developer.
+- 📱 Software Engineer @Paytm.
 - 📱 Android Application developer.
 - 👨‍💻 Mostly working on ReactJS!
 - ⚡ Fun fact: I love watching Anime.
